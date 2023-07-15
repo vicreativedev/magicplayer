@@ -14,4 +14,3 @@ dependencyResolutionManagement {
 }
 rootProject.name = "magicplayer"
 include ':app'
-include ':mediafiles'
