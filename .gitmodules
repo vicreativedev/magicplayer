@@ -1,0 +1,3 @@
+[submodule "mediafiles"]
+	path = mediafiles
+	url = git@github.com:vicreativedev/mediafiles.git
